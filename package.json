@@ -1,0 +1,28 @@
+{
+  "name": "primer_parcial_lab_prog_leng",
+  "version": "1.0.0",
+  "description": "Primer Parcial de la Materia de Laboratorio de Programación y Lenguajes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablosingh/primer_parcial_lab_prog_leng.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pablosingh/primer_parcial_lab_prog_leng/issues"
+  },
+  "homepage": "https://github.com/pablosingh/primer_parcial_lab_prog_leng#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
